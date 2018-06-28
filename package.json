@@ -1,6 +1,6 @@
 {
   "name": "hi3510-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Node wrapper for remote control of hi3510 based IP cameras.",
   "homepage": "https://github.com/jaredhobbs/hi3510-client",
   "author": "Jared Hobbs <jared@pyhacker.com>",
